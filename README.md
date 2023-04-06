@@ -12,7 +12,7 @@
     <h3> 📫 How to reach me **sonacode44@gmail.com**</h3>
  </div>
  <div class="hero-img-section">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  align="right" alt="Coding" width="300>
+    <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  align="right" alt="Coding" width="300> -->
    </div>
 </div>
 <div class="hero-body-section">
