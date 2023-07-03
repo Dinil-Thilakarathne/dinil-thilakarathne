@@ -1,29 +1,33 @@
-
-<div class="header-section" style="height:10%;width: 100%;text-align: center;" align="center">
-    <h1 >Hi 👋, I'm Dinil Thilakarathne</h1>
-    <h3 >A passionate frontend developer from Sri lanka</h3>
+ <div class="hero-img-section">
+    <img src="img/banner.png"  align="right" alt="Coding">
 </div>
+
+*.*
+
+<div class="header-section" style="height:10%;width: 100%;" >
+    <h2 >
+👋 Hello, I'm Dinil Thilakarathen, a 19-year-old aspiring front-end developer.From Sri Lanka 🇱🇰
+    </h2>
+</div>
+
 
 <div class="hero-top-section"">
  <div class="hero-top-txt">
-    <h3> 🌱 I’m currently learning **Javascript, React** </h3>
-    <h3> 💬 Ask me about **HTML , CSS**
-    </h3>
-    <h3> 📫 How to reach me **sonacode44@gmail.com**</h3>
+ <p>
+ I have a strong passion for front-end development and love creating beautiful, interactive user interfaces. My expertise lies in HTML and CSS, where I have honed my skills to craft visually appealing and responsive web pages. I strive to create seamless user experiences by leveraging the power of these core technologies.
+ </p>
  </div>
- <div class="hero-img-section">
-    <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  align="right" alt="Coding" width="300> -->
-   </div>
-</div>
+
 <div class="hero-body-section">
     <div class="social-media-section">
         <h3>Connect with me:</h3>
-        <p >
-         <a href="https://www.instagram.com/sona_code/" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sona code" height="30" width="40" />
-         </a>
+        <p>
+        <a>
+            <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" />
+
+</a>
          <a href="https://www.youtube.com/@sonacode" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sona code" height="30" width="40" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/[COLOR]" />
          </a>
         </p>
     </div>
