@@ -1,9 +1,3 @@
- <div class="hero-img-section">
-    <img src="img/cover.jpg"  align="right" alt="Coding">
-</div>
-
-_._
-
 <div class="header-section" style="height:10%;width: 100%;" >
     <h2 >
 👋 Hello, I'm Dinil Thilakarathne
@@ -17,10 +11,13 @@ A creative Front-end developer with a passion for creative design and innovative
  </p>
  </div>
 
+<p>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+</p>
 <div class="hero-body-section">
     <div class="social-media-section">
     <h2>Connect with me</h2>
-    
+
 Linkedin : [@dinil-thilakarathne](https://www.linkedin.com/in/dinil-thilakarathne/)
 
 Instagram: [@sona_code](https://www.instagram.com/sona_code/)
